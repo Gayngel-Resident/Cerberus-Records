@@ -1,0 +1,1 @@
+This a script for a record player that reads sound UUIDs from notecards to create songs. I did not make the majority of the script. The client required a fix to be able to select notecards from the dialog menu when there are more than 12 notecards. The dialog menu required a back and next button to scroll through all notecards.
